@@ -6,16 +6,21 @@ Passionate about building data pipelines, transforming raw data, and creating me
 </p>
 
 ---
-
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github" />
-<br>
-<img src="https://skillicons.dev/icons?i=azure,aws" />
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,linux" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=spark,aws,github" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=airflow,Databricks" />
 </p>
 
----
+### 🚀 Professional Highlights
+* **Data Engineering & Analytics Specialist**
+* **1:1 Mentorship & Career Coach**
+* **5K+ LinkedIn Community**
+* **Expertise:** PySpark | Big Data | Databricks | Power BI | Airflow | Advanced Excel
 
 ### 🚀 Featured Projects
 

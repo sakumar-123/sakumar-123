@@ -48,8 +48,7 @@ Passionate about building data pipelines, transforming raw data, and creating me
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sakumar-123&show_icons=true&theme=tokyonight" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakumar-123&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sakumar-123&show_icons=true&theme=tokyonight&hide=issues" />
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakumar-123&theme=tokyonight" /> </p>

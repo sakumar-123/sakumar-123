@@ -5,8 +5,8 @@
 Passionate about building data pipelines, transforming raw data, and creating meaningful business insights using SQL, Python, and BI tools.
 </p>
 
-
-## 🚀 Skills
+--
+## 🚀Tech Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)

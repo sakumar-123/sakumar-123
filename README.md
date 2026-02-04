@@ -48,10 +48,14 @@ Passionate about building data pipelines, transforming raw data, and creating me
 </p>
 
 ---
+## 📜 Certifications
 
-### 📊 GitHub Stats
+- 🎓 **Microsoft Fabric Master Class – KSR Datavizon**  
+  🔗 [View Certificate]([https://your-certificate-link.com](https://drive.google.com/file/d/1BTSW1I53V9gAmpffPi1KyvOI4S1xuscm/view)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sakumar-123&show_icons=true&theme=tokyonight&hide=issues" />
+- 🎓 **Deloitte Data Analytics Virtual Internship**  
+  🔗 [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_r2ndPLfN6cnMefxRK_1741788595847_completion_certificate.pdf)
 
+- 🎓 **Google Data Analytics Professional Certificate – Google**  
+  🔗 [View Certificate](https://coursera.org/share/8c48d65df1bc1bab578ad1d76b641023)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakumar-123&theme=tokyonight" /> </p>

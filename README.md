@@ -48,6 +48,14 @@ Passionate about building data pipelines, transforming raw data, and creating me
 </p>
 
 ---
+
+## 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/saikumar_Embadi?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/saikumar_Embadi/)
+
+
+
+
 ## 📜 Certifications
 
 - 🎓 **Microsoft Fabric Master Class – KSR Datavizon**  

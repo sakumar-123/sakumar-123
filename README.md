@@ -23,7 +23,7 @@ Passionate about building data pipelines, transforming raw data, and creating me
 * **Data Engineering & Analytics Specialist**
 * **1:1 Mentorship & Career Coach**
 * **5K+ LinkedIn Community**
-* **Expertise:** PySpark | Big Data | Databricks | Power BI | Airflow | Advanced Excel
+* **Expertise:** PySpark | Big Data | Databricks | Power BI | Airflow | Advanced Excel | python
 
 ### 🚀 Featured Projects
 

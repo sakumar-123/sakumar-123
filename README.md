@@ -2,8 +2,9 @@
 <h3 align="center">Data Engineer & Analytics | Turning Data into Insights</h3>
 
 <p align="center">
-Passionate about building data pipelines, transforming raw data, and creating meaningful business insights using SQL, Python, and BI tools.
+Passionate Data Engineering enthusiast focused on building scalable data pipelines, transforming raw data into reliable datasets, and delivering meaningful business insights. Experienced in SQL, Python, Apache Spark, and Databricks Lakehouse architecture with hands-on implementation of Medallion Architecture and Delta Lake.
 </p>
+
 
 --
 ## 🚀Tech Skills
